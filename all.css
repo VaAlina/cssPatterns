@@ -22,3 +22,11 @@ linear-gradient(130deg, rgba(0,0,200,.3) 50%, transparent 50%),
 linear-gradient(45deg, rgba(0,200,0,.3) 50%, transparent 50%);
 background-size:50px 50px;
 /*Squares shadow. End.*/
+
+/*Squares shadow 2. Begine.*/
+background-color:white;
+background-image: linear-gradient(45deg, rgba(20,0,0,.3) 50%, transparent 50%, transparent 50%),
+linear-gradient(130deg, rgba(20,20,20,.3) 50%, transparent 50%),
+linear-gradient(45deg, rgba(0,200,0,.3) 50%, transparent 50%);
+background-size:50px 50px;
+/*Squares shadow 2. End.*/
