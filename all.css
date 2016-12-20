@@ -6,11 +6,12 @@ background-size:30px 30px;
 /*Rombs. End.*/
 
 /*Landscape. Begine.*/
-background-color:white;
+background-color:yellow;
 background-image: linear-gradient(45deg, rgba(20,0,0,.3) 50%, transparent 50%, transparent 50%),
 linear-gradient(23deg, rgba(0,200,0,.3) 50%, transparent 50%),
-linear-gradient(0deg, rgba(200,0,0,.3) 50%, transparent 50%);
-background-size:50px 50px;
+linear-gradient(0deg, rgba(200,0,0,.3) 50%, transparent 50%),
+linear-gradient(30deg, rgba(200,200,200,.8) 80%, transparent 50%);
+background-size:280px 280px;
 /*Landscape. End.*/
 
 /*Squares shadow. Begine.*/
