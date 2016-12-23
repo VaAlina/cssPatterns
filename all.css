@@ -56,3 +56,12 @@ linear-gradient(180deg, rgba(20,20,20,.3) 50%, transparent 50%),
 linear-gradient(45deg, rgba(20,20,20,.3) 50%, transparent 50%);
 background-size:50px 50px;
 /*Origami.*/
+
+
+/*Box gradient. Begine.*/
+background-color:#555;
+background-image: radial-gradient(white 2%, transparent 1%),
+radial-gradient(white 10%, transparent 100%);
+background-size:50px 50px;
+/*Box gradient. End.*/
+background-position: 0 0, 100px 20px;
