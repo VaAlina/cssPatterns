@@ -65,3 +65,11 @@ radial-gradient(white 10%, transparent 100%);
 background-size:50px 50px;
 background-position: 0 0, 100px 20px;
 /*Box gradient. End.*/
+
+/*Rombs. Begine.*/
+background-color:#555;
+background-image: radial-gradient(white 20%, transparent 0%),
+radial-gradient(white 90%, transparent 0%);
+background-size:50px 50px;
+background-position: 0 0, 100px 0px;
+/*Rombs. End.*/
